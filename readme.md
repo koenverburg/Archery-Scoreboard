@@ -1,1 +1,1 @@
-# Archery SCoreboard
+# Archery Scoreboard
